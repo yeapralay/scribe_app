@@ -1,0 +1,28 @@
+.background-left {
+    background-color: #FAFAD2;
+    background-image: url('/assets/Sign-Up-BG-Image.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: left bottom;
+}
+
+.background-right {
+    background-color: #FAFAD2;
+}
+
+.card {
+    background-color: transparent;
+    color: #000;
+}
+
+.text-muted{ 
+    color: #191970 !important;
+}
+
+.btn[type=submit]{
+    border-radius: 50px;
+}
+
+h1 {
+    color: #F08080;
+}
